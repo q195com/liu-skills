@@ -8,6 +8,6 @@
 帮我安装这个 skill：https://github.com/q195com/liu-skills/tree/main/<skill-name>
 ```
 
-把 `<skill-name>` 换成你想装的那个，比如`liu-writer``Village-Liu-writer`。Agent 会自己 clone 到对应目录，不用你操心路径。
+把 `<skill-name>` 换成你想装的那个，比如`liu-writer`  `Village-Liu-writer`。Agent 会自己 clone 到对应目录，不用你操心路径。
 
 ---
